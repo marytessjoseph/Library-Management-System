@@ -1,0 +1,2 @@
+# Library-Management-System
+A Library Management system is used for managing books in a university library. Using the ORM diagrams instead of ER diagrams, gave me a new perspective towards this project. Creating buckets in the couchbase server was another challenge. The connection between the buckets was given internally using the link feature in the Couchbase Server. Used SQL queries for inserting data into buckets and jQueries for the operations in buckets.
